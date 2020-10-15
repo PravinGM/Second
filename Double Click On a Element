@@ -16,3 +16,5 @@ public class DoubleClickOnAnElement extends BasicSettings
 		actions.doubleClick(addButton).perform();
 	}
 }
+
+Edited from Testing Account
